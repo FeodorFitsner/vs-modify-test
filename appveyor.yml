@@ -1,0 +1,7 @@
+image: Visual Studio 2019
+
+install:
+- ps: .\install-vs-component.ps1
+
+build: off
+test: off
